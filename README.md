@@ -1,5 +1,5 @@
-# trovi_reproduce_fastlanes-vldb25
+# trovi_reproduce_bptree-vldb24
 
-This repository reproduces some results of the FastLanes VLDB 2025 artifact: https://github.com/cwida/fastlanes-vldb2025
+This repository reproduces some results of the BPTree VLDB 2024 artifact: https://github.com/wheatman/BP-Tree
 
-This contains modifications related to experiment reproduction, environment setup, and artifact packaging. All original implementation credit belongs to the original authors.
+This may contain some modifications related to experiment reproduction, environment setup, and artifact packaging. All original implementation credit belongs to the original authors.
