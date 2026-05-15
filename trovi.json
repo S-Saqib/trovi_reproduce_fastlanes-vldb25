@@ -18,7 +18,7 @@
             "description": "reproducing results and packaging experiments on trovi",
             "disambiguatingDescription": "for packaging original experiments",
             "keywords": "experiment",
-            "name": "test-fastlanes-vldb25"
+            "name": "Reproducing_BP-tree_vldb24"
         },
         {
             "@id": "trovi.json",
